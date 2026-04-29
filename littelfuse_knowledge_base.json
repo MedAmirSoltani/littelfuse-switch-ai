@@ -1,0 +1,2236 @@
+[
+  {
+    "id": "cat-dc-disconnect-1000vdc",
+    "category": "DC Disconnect Switches",
+    "subcategory": "1000 VDC Disconnect Switches",
+    "document": "1000 VDC Disconnect Switches. LS6 series. Energy-efficient compact units that preserve battery life and minimize shock hazards. Allow users to isolate circuits by quickly breaking the flow of electrical current. Available in 1-pole or 2-pole configurations. Current ratings of 250 A or 400 A. SCCR 10 kA. Impulse voltage withstand 12 kV. UL 94V-0 flammability rating. UL Listed. REACH and RoHS compliant. Self-cleaning contacts. Self-extinguishing nonflammable materials. Applications: solar PV systems, energy storage systems, oil and gas rigs, railways, EV chargers, uninterruptible power supplies, battery-powered vehicles and industrial equipment, DC motors, locomotive batteries.",
+    "metadata": {
+      "category": "DC Disconnect Switches",
+      "subcategory": "1000 VDC Disconnect Switches",
+      "voltage": "1000 VDC",
+      "current": "250 A or 400 A",
+      "sccr": "10 kA",
+      "certifications": "UL Listed, REACH, RoHS, UL 94V-0",
+      "poles": "1-pole or 2-pole",
+      "ip_sealing": "Self-cleaning contacts",
+      "applications": "Solar/PV, energy storage, EV chargers, railway, oil and gas, UPS, battery vehicles",
+      "url": "https://www.littelfuse.com/products/switches/dc-disconnect-switches/1000-vdc-disconnect-switches"
+    }
+  },
+  {
+    "id": "cat-dc-disconnect-1500vdc",
+    "category": "DC Disconnect Switches",
+    "subcategory": "1500 VDC Disconnect Switches",
+    "document": "1500 VDC Disconnect Switches. Series: LS6R0250, LS6R0400, LS7R02502PS00L, LS7R03202PS00L, LS7R04002PS00L, LS7R05002PS00L. Energy-efficient compact units that quickly break or safely resume flow of electrical current. Patented operation minimizes arc damage when disconnecting. Available in optimal ampere ratings. Applications: solar PV systems, energy storage systems, oil and gas, railway, EV chargers, UPS, battery isolation. Utility-scale solar, high-voltage industrial DC systems.",
+    "metadata": {
+      "category": "DC Disconnect Switches",
+      "subcategory": "1500 VDC Disconnect Switches",
+      "voltage": "1500 VDC",
+      "current": "250 A to 500 A",
+      "certifications": "IEC/UL compliant",
+      "poles": "2-pole",
+      "ip_sealing": "Sealed, arc-quenching",
+      "applications": "Utility-scale solar, energy storage, EV chargers, railway, oil and gas, UPS",
+      "url": "https://www.littelfuse.com/products/switches/dc-disconnect-switches/1500-vdc-disconnect-switches"
+    }
+  },
+  {
+    "id": "cat-dc-disconnect-500vdc",
+    "category": "DC Disconnect Switches",
+    "subcategory": "500 VDC Disconnect Switches",
+    "document": "500 VDC Disconnect Switches. LS6 series. Energy-efficient compact units that preserve battery life and minimize shock hazards. Patented operation reduces arc flash risks during disconnection. Available in 1-pole or 2-pole configurations. Current ratings of 250 A or 400 A. SCCR 10 kA. Impulse voltage withstand 12 kV. UL 94V-0. UL Listed. REACH and RoHS compliant. Self-cleaning contacts. Applications: solar PV systems, energy storage systems, oil and gas rigs, railways, EV chargers, uninterruptible power supplies, battery-powered vehicles.",
+    "metadata": {
+      "category": "DC Disconnect Switches",
+      "subcategory": "500 VDC Disconnect Switches",
+      "voltage": "500 VDC",
+      "current": "250 A or 400 A",
+      "sccr": "10 kA",
+      "certifications": "UL Listed, REACH, RoHS, UL 94V-0",
+      "poles": "1-pole or 2-pole",
+      "applications": "Solar/PV, energy storage, EV chargers, railway, oil and gas, UPS",
+      "url": "https://www.littelfuse.com/products/switches/dc-disconnect-switches/500-vdc-disconnect-switches"
+    }
+  },
+  {
+    "id": "cat-dc-disconnect-electrical-battery",
+    "category": "DC Disconnect Switches",
+    "subcategory": "Electrical Battery Disconnect Switches",
+    "document": "Electrical Battery Disconnect Switches. Remote battery disconnect, remote battery cutoff switch, remote battery kill switch. Electromagnetic relay battery disconnect activated by ignition or cabin switch. Double-pole or single-pole circuitry. Bi-stable relays. Many are waterproof. ADR (Accord Dangereux Routier) versions available. Usable as power relays for high current devices. Continuous current ratings 150 A to 500 A. SPST or DPST circuitry. IP ratings IP65 to IP67/IP69K. Time delay and programmable time delay options. Remotely disconnects battery from vehicle electrical system. Prevents battery drain. Safeguards against thermal events in accidents.",
+    "metadata": {
+      "category": "DC Disconnect Switches",
+      "subcategory": "Electrical Battery Disconnect Switches",
+      "voltage": "12-48 VDC typical",
+      "current": "150 A to 500 A",
+      "ip_sealing": "IP65 to IP67/IP69K, waterproof options",
+      "circuitry": "SPST or DPST",
+      "certifications": "ADR compliant versions available",
+      "applications": "Commercial vehicles, fleet management, marine, remote battery isolation",
+      "url": "https://www.littelfuse.com/products/switches/dc-disconnect-switches/electrical-battery-disconnect-switches"
+    }
+  },
+  {
+    "id": "cat-dc-disconnect-manual-battery",
+    "category": "DC Disconnect Switches",
+    "subcategory": "Manual Battery Disconnect Switches",
+    "document": "Manual Battery Disconnect Switches. Battery cutoff switch, battery isolation switch, battery shutoff switch. Completely disconnects electrical current running through a vehicle or equipment. Continuous current ratings from 40 A to 600 A. Single-pole and double-pole options. Actuator styles: push-button, T-handle, rotary knob, key, lever. Metal or thermoplastic housings for heavy-duty marine and commercial applications. Water-resistant and waterproof options IP43 to IP67 and IPX9K. Applications: heavy-duty trucks, construction, emergency vehicles, buses and transit, military, agricultural. Safety: prevents damage from short-circuit fires, allows mechanics to shut down electrical systems, prevents parasitic battery drain.",
+    "metadata": {
+      "category": "DC Disconnect Switches",
+      "subcategory": "Manual Battery Disconnect Switches",
+      "voltage": "Up to 500 VDC",
+      "current": "40 A to 600 A",
+      "ip_sealing": "IP43 to IP67 and IPX9K",
+      "poles": "Single-pole and double-pole",
+      "actuator_styles": "Push-button, T-handle, rotary knob, key, lever",
+      "applications": "Heavy-duty trucks, construction, emergency vehicles, buses, military, agricultural",
+      "url": "https://www.littelfuse.com/products/switches/dc-disconnect-switches/manual-battery-disconnect-switches"
+    }
+  },
+  {
+    "id": "cat-detect-switches",
+    "category": "Detect Switches",
+    "subcategory": "Detect Switches",
+    "document": "Detect Switches. C&K brand. Largest selection in SMT, through-hole, panel, snap-in/chassis and screw-mount switches. Various sizes and shapes. Actuator orientations: vertical, horizontal, top, side, right-angle, left-angle. Soft actuation force. Compact designs. Low current capabilities. Long life. Applications: appliances, consumer electronics, building solutions, health care, data center and communications, passenger car vehicle electronics.",
+    "metadata": {
+      "category": "Detect Switches",
+      "subcategory": "Detect Switches",
+      "mounting": "SMT, through-hole, panel, snap-in, chassis, screw-mount",
+      "applications": "Appliances, consumer electronics, building, healthcare, data center, automotive",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches"
+    }
+  },
+  {
+    "id": "cat-dip-linear",
+    "category": "DIP Switches",
+    "subcategory": "Linear DIP Switches",
+    "document": "Linear DIP Switches. C&K brand. Used as address switches for industrial controls, portable and handheld electronic devices. Logic switching in computers and peripherals. Function controlling in numerous applications. Ultra-miniature half-pitch DIP switches, low-profile and standard-profile DIP switches, jumper switches. Through-hole and surface-mount models. Process sealed for surface-mount soldering and washable processing. Applications: general industrial and electrical equipment, building solutions, data center and communications, consumer electronics.",
+    "metadata": {
+      "category": "DIP Switches",
+      "subcategory": "Linear DIP Switches",
+      "mounting": "Through-hole, surface mount",
+      "applications": "Industrial controls, computers, peripherals, consumer electronics, building",
+      "url": "https://www.littelfuse.com/products/switches/dip-switches/linear-dip-switches"
+    }
+  },
+  {
+    "id": "cat-dip-rotary",
+    "category": "DIP Switches",
+    "subcategory": "Rotary DIP Switches",
+    "document": "Rotary DIP Switches. C&K brand. For timers, automation components, alarms, access controls, smoke detectors. Miniature switches. Robust metal cover in black or silver nickel finish. Wide selection of codings. Vertical or reverse versions. Applications: general industrial and electrical equipment, building solutions, data center and communications, consumer electronics.",
+    "metadata": {
+      "category": "DIP Switches",
+      "subcategory": "Rotary DIP Switches",
+      "features": "Metal cover, wide codings, vertical or reverse",
+      "applications": "Timers, automation, alarms, access controls, smoke detectors",
+      "url": "https://www.littelfuse.com/products/switches/dip-switches/rotary-dip-switches"
+    }
+  },
+  {
+    "id": "cat-fusible-disconnect",
+    "category": "Fusible Disconnect Switches",
+    "subcategory": "Fusible Disconnect Switches",
+    "document": "Fusible Disconnect Switches. Also known as fused disconnect switch or switch-fuse or fuse switch disconnector. Combines disconnect switch and fuse in one compact device. Allows operators to turn power on or off. Provides overcurrent protection by automatically breaking circuit on overload or short circuit. Safeguards equipment and personnel. Class J Fuse Disconnect Switch LM3200. Applications: industrial control panels, power distribution systems, renewable energy applications.",
+    "metadata": {
+      "category": "Fusible Disconnect Switches",
+      "subcategory": "Fusible Disconnect Switches",
+      "features": "Integrated fuse and disconnect, overcurrent protection",
+      "products": "LM3200 Class J Fuse Disconnect Switch",
+      "applications": "Industrial control panels, power distribution, renewable energy",
+      "url": "https://www.littelfuse.com/products/switches/fusible-disconnect-switches"
+    }
+  },
+  {
+    "id": "cat-ignition-switches",
+    "category": "Ignition Switches",
+    "subcategory": "Ignition Switches",
+    "document": "Ignition Switches. Metal or plastic housings. Keys or levers. Harness or stud connectors. Sealed waterproof ignition switch with integrated connector. Heavy-duty starter switch ideal for diesel ignition. Marine-grade starter switches. Standard-body levered or keyed ignition switches. Accessories: harnesses, keys, caps. Continuous current ratings 5 A to 70 A. Optimized for 12 V systems. SAE J259 standard tested. Multiple switch positions. Some models usable as DC disconnect switches. Applications: agricultural equipment, commercial vehicles, construction equipment, material handling equipment, maritime equipment, watercraft.",
+    "metadata": {
+      "category": "Ignition Switches",
+      "subcategory": "Ignition Switches",
+      "voltage": "12 V systems",
+      "current": "5 A to 70 A",
+      "certifications": "SAE J259",
+      "ip_sealing": "Sealed waterproof options",
+      "applications": "Agricultural, commercial vehicles, construction, material handling, marine, watercraft",
+      "url": "https://www.littelfuse.com/products/switches/ignition-switches"
+    }
+  },
+  {
+    "id": "cat-load-switches",
+    "category": "Load Switches",
+    "subcategory": "Load Switches",
+    "document": "Load Switch ICs. Integrated load switch ICs. Industry-leading performance in ultralow power consumption. Low IQ, ISD, and RDS(on). Curtails parasitic leakage current. Enhances system efficiency. Extends battery lifespan. For battery-powered devices and systems requiring power management.",
+    "metadata": {
+      "category": "Load Switches",
+      "subcategory": "Load Switches",
+      "features": "Ultralow power, low IQ, low ISD, low RDS(on), parasitic leakage reduction",
+      "applications": "Battery-powered devices, power management, IoT, mobile devices",
+      "url": "https://www.littelfuse.com/products/switches/load-switches"
+    }
+  },
+  {
+    "id": "cat-plunger-switches",
+    "category": "Plunger Switches",
+    "subcategory": "Plunger Switches",
+    "document": "Plunger Switches. Mechanical plunger switches for commercial vehicles. Signal situations including power takeoff, idle and reverse gear, differential block, low gears brake failure, reduced gears, handbrake failure. 5-volt DIN plunger switches and 12-volt to 24-volt mechanical plunger switches. Normally open or normally closed contact configurations. Different electrical connections. Silver-plated and gold-plated contacts. Normally open, normally closed, and normally open-normally closed configurations.",
+    "metadata": {
+      "category": "Plunger Switches",
+      "subcategory": "Plunger Switches",
+      "voltage": "5 V DIN or 12 V to 24 V",
+      "contacts": "Silver-plated and gold-plated options",
+      "circuitry": "NO, NC, NO-NC",
+      "applications": "Commercial vehicles, power takeoff, gear sensing, brake failure detection, handbrake",
+      "url": "https://www.littelfuse.com/products/switches/plunger-switches"
+    }
+  },
+  {
+    "id": "cat-push-button-switches",
+    "category": "Push Button Switches",
+    "subcategory": "Push Button Switches",
+    "document": "Push Button Switches. C&K brand. Reliable control for electronics, industrial, automotive, commercial vehicle applications. Miniature, subminiature, ultra-miniature designs. PCB, surface-mount, panel-mount. Momentary or latching versions. SPST, SPDT, DPST, DPDT circuit configurations. Illuminated, sealed, low-profile options. Snap-in, threaded, surface-mount mounting. Wide actuator shapes styles and colors. Automotive lineup: light-duty and heavy-duty for 12 V and 24 V systems. Current ratings 5 A to 35 A. Normally open contacts. Corrosion-resistant contacts for harsh environments. Applications: general industrial, building, data center, consumer electronics, aviation defense space, transportation.",
+    "metadata": {
+      "category": "Push Button Switches",
+      "subcategory": "Push Button Switches",
+      "voltage": "Up to 250 VAC / 30 VDC, 12 V and 24 V automotive",
+      "current": "5 A to 35 A automotive",
+      "circuitry": "SPST, SPDT, DPST, DPDT",
+      "mounting": "PCB, SMT, panel-mount, snap-in, threaded",
+      "ip_sealing": "Sealed options available",
+      "applications": "Industrial, building, data center, consumer electronics, aviation, defense, transportation",
+      "url": "https://www.littelfuse.com/products/switches/push-button-switches"
+    }
+  },
+  {
+    "id": "cat-push-pull-switches",
+    "category": "Push-Pull Switches",
+    "subcategory": "Push-Pull Switches",
+    "document": "Push-Pull Switches. Commercial vehicle automotive push-pull switches. Single-circuit and dual-circuit push-pull switches. Marine push-pull switches. Three-position and four-position headlight switches. Heavy-duty push-pull switches for general-purpose automotive. Push-pull magneto switches. SPST, SPDT, DPDT, DPTT circuitry. Mounting body and actuator features for ease-of-use and extended lifecycle. Applications: commercial vehicles, marine, automotive lighting control.",
+    "metadata": {
+      "category": "Push-Pull Switches",
+      "subcategory": "Push-Pull Switches",
+      "circuitry": "SPST, SPDT, DPDT, DPTT",
+      "applications": "Commercial vehicles, marine, automotive headlight and lighting control",
+      "url": "https://www.littelfuse.com/products/switches/push-pull-switches"
+    }
+  },
+  {
+    "id": "cat-rocker-switches",
+    "category": "Rocker Switches",
+    "subcategory": "Rocker Switches",
+    "document": "Rocker Switches. C&K brand. Reliable control for electronic, industrial, commercial vehicle applications. Standard and heavy-duty automotive switches. C&K miniature, subminiature, and power rocker switches. Multi-pole, multi-position switching. Sealed and waterproof designs for harsh environments. LED and incandescent illuminated versions. High-current designs. Panel-mount: snap-in, narrow-body, front-mount, rear-mount. PCB mount: through-hole, vertical, right-angle, surface-mount. Recessed switch guards. Moisture-resistant housings. DPDT, DPST, SPDT, SPST, 3PDT, 4PDT options. Applications: vehicles, industrial equipment, control panels, electronic systems, appliances, data center, consumer electronics, transportation, healthcare.",
+    "metadata": {
+      "category": "Rocker Switches",
+      "subcategory": "Rocker Switches",
+      "circuitry": "SPST, SPDT, DPST, DPDT, 3PDT, 4PDT",
+      "mounting": "Panel snap-in, narrow-body, front-mount, rear-mount, PCB through-hole, SMT",
+      "ip_sealing": "Sealed and waterproof options",
+      "illumination": "LED and incandescent options",
+      "applications": "Vehicles, industrial, control panels, electronics, appliances, healthcare",
+      "url": "https://www.littelfuse.com/products/switches/rocker-switches"
+    }
+  },
+  {
+    "id": "cat-rotary-switches",
+    "category": "Rotary Switches",
+    "subcategory": "Rotary Switches",
+    "document": "Rotary Switches. C&K brand. Wide range for electronic, industrial, commercial vehicle applications. Low-level signal switching to higher current control. Indexing options for 10 mA to 12 A. Switchlock, multi-pole, multi-position, half-inch, rota-slide, power rota-slide, sub-miniature designs. Shorting and non-shorting contacts. Miniature and subminiature PCB designs. Solder lug, PC through-hole, wire lead, quick connect terminations. Automotive: 12 V to 24 V rotary switches. Universal rotary switches, electronic rotary dimmer switches, reversing switches, rotary headlamp and light switches. Sealed options. Actuators: levers, keys, printed knobs. Applications: industrial, building, data center, consumer electronics, transportation, healthcare.",
+    "metadata": {
+      "category": "Rotary Switches",
+      "subcategory": "Rotary Switches",
+      "voltage": "12 V to 24 V automotive, low level to 12 A",
+      "current": "10 mA to 12 A",
+      "features": "Multi-pole multi-position, shorting and non-shorting, switchlock, sealed options",
+      "applications": "Industrial, building, data center, consumer electronics, transportation, healthcare",
+      "url": "https://www.littelfuse.com/products/switches/rotary-switches"
+    }
+  },
+  {
+    "id": "cat-slide-switches",
+    "category": "Slide Switches",
+    "subcategory": "Slide Switches",
+    "document": "Slide Switches. C&K brand. Ultra-miniature, micro, miniature, standard, industrial, and power versions. PCB, surface-mount, panel-mount. SPST, SPDT, SP3T, DPST, DPDT, 3PDT, 4PDT, 4P3T functions. Positive detent, sealing, shorting or non-shorting contacts. Voltage select switch option. SMD, PCB, panel-mount. Sealed option available. Applications: controllers, consumer goods, headphones, HVAC controls, audio equipment, alarms, appliances, building, data center, consumer electronics, transportation.",
+    "metadata": {
+      "category": "Slide Switches",
+      "subcategory": "Slide Switches",
+      "circuitry": "SPST, SPDT, SP3T, DPST, DPDT, 3PDT, 4PDT, 4P3T",
+      "mounting": "SMD, PCB, panel-mount",
+      "ip_sealing": "Sealed option available",
+      "applications": "Controllers, consumer goods, headphones, HVAC, audio, alarms, appliances",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches"
+    }
+  },
+  {
+    "id": "cat-snap-switches",
+    "category": "Snap Switches",
+    "subcategory": "Snap Switches",
+    "document": "Snap Switches. C&K brand. Ultra-miniature, sub-miniature, mid-size, large, heavy-duty, metal case models. Limit switches. Actuator configurations: pin plunger, lever, roller lever. Electrical ratings from low levels up to 30 amperes. Broad range of operating forces. Terminal styles: PCB through-hole, quick connect, wire leads, screw, solder, flat, step base. Sealed models. SPST, SPDT, DPST, DPDT functionality. Mounting: vertical, right-angle, PCB, snap-in. General-purpose, precision, interlock, mini, small, mid-size, large, heavy-duty, sealed categories. Applications: appliances, building, consumer electronics, transportation, healthcare.",
+    "metadata": {
+      "category": "Snap Switches",
+      "subcategory": "Snap Switches",
+      "current": "Low level to 30 A",
+      "circuitry": "SPST, SPDT, DPST, DPDT",
+      "actuators": "Pin plunger, lever, roller lever",
+      "mounting": "Vertical, right-angle, PCB, snap-in",
+      "applications": "Appliances, building, consumer electronics, transportation, healthcare",
+      "url": "https://www.littelfuse.com/products/switches/snap-switches"
+    }
+  },
+  {
+    "id": "cat-special-purpose-switches",
+    "category": "Special Purpose Switches",
+    "subcategory": "Special Purpose Switches",
+    "document": "Special Purpose Switches. Commercial vehicle and equipment applications. General-purpose and special-purpose switches. Neutral safety switch, backup switch, temperature switch, stoplamp switch, brake switch, foot-operated on-off switch, purpose-built automotive switches.",
+    "metadata": {
+      "category": "Special Purpose Switches",
+      "subcategory": "Special Purpose Switches",
+      "applications": "Commercial vehicles, neutral safety, backup, temperature, stoplamp, brake, foot-operated",
+      "url": "https://www.littelfuse.com/products/switches/special-purpose-switches"
+    }
+  },
+  {
+    "id": "cat-tactile-switches",
+    "category": "Tactile Switches",
+    "subcategory": "Tactile Switches",
+    "document": "Tactile Switches. C&K brand. Miniature, ultra-miniature, micro-miniature tactile switches for PCB mounting. J-bend, gullwing, illuminated, sealed, low-profile, low-noise, SMT, through-hole versions. Superior performance tunable to application requirements. Silver or gold terminations. Applications: general industrial, building, data center, consumer electronics, aviation defense space, transportation, healthcare.",
+    "metadata": {
+      "category": "Tactile Switches",
+      "subcategory": "Tactile Switches",
+      "mounting": "PCB, SMT, through-hole, J-bend, gullwing",
+      "ip_sealing": "Sealed options available",
+      "illumination": "Illuminated options available",
+      "terminations": "Silver or gold",
+      "applications": "Industrial, building, data center, consumer electronics, aviation, defense, transportation, healthcare",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches"
+    }
+  },
+  {
+    "id": "cat-toggle-switches",
+    "category": "Toggle Switches",
+    "subcategory": "Toggle Switches",
+    "document": "Toggle Switches. C&K brand. Reliable control for industrial, automotive, commercial vehicle, marine, electronics applications. Light-duty, heavy-duty, extra-heavy-duty switches. Miniature, subminiature, ultra-miniature C&K switches. General-purpose, illuminated, special-purpose versions. Multiple circuit options. PCB, SMT, bushing mounting with vertical, right-angle, vertical-right-angle brackets. Sealed and waterproof for dust and water protection. High-power models up to 10 A. Custom wire harness support. Applications: general industrial, data center, transportation, healthcare.",
+    "metadata": {
+      "category": "Toggle Switches",
+      "subcategory": "Toggle Switches",
+      "current": "Up to 10 A",
+      "mounting": "PCB, SMT, bushing",
+      "ip_sealing": "Sealed and waterproof options, marine-grade",
+      "illumination": "Illuminated options available",
+      "applications": "Industrial, automotive, commercial vehicle, marine, electronics, data center, transportation, healthcare",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches"
+    }
+  },
+  {
+    "id": "cat-windshield-wiper-switches",
+    "category": "Windshield Wiper Switches",
+    "subcategory": "Windshield Wiper Switches",
+    "document": "Windshield Wiper Switches. Electrical and electronic switches for heavy-duty vehicle windshield wiper control. In-cabin control. 3-position, 4-position, 5-position, 6-position wiper switch options. Various mounting, body, actuator features. Rotary windshield wiper switches with push-to-wash capability. Built for heavy-duty commercial vehicles. Applications: construction, agricultural, material handling vehicles.",
+    "metadata": {
+      "category": "Windshield Wiper Switches",
+      "subcategory": "Windshield Wiper Switches",
+      "positions": "3, 4, 5, or 6 positions",
+      "features": "Push-to-wash capability, rotary type",
+      "applications": "Construction, agricultural, material handling heavy-duty vehicles",
+      "url": "https://www.littelfuse.com/products/switches/windshield-wiper-switches"
+    }
+  },
+  {
+    "id": "part-54100-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: 54100 Series. Series: SPDT. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "54100 Series",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-55025-sealed",
+    "category": "Toggle Switches",
+    "document": "Part Number: 55025 Sealed. Series: SPST. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "55025 Sealed",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-59024-00-freightliner-replacement-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: 59024-00 Freightliner Replacement Series. Series: SPST. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "59024-00 Freightliner Replacement Series",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-59024-000-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: 59024-000 Series. Series: SPDT. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "59024-000 Series",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-7000",
+    "category": "Toggle Switches",
+    "document": "Part Number: 7000. Series: SPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 15 mA. Max Current: Thru Hole. Contacts: 100000.0",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "7000",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "15 mA",
+      "max_current": "Thru Hole",
+      "contacts": "100000.0"
+    }
+  },
+  {
+    "id": "part-9000",
+    "category": "Toggle Switches",
+    "document": "Part Number: 9000. Series: DPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 6 A. Max Current: Thru Hole",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "9000",
+      "series": "DPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "6 A",
+      "max_current": "Thru Hole"
+    }
+  },
+  {
+    "id": "part-accessories-for-toggle-switches",
+    "category": "Toggle Switches",
+    "document": "Part Number: Accessories for Toggle Switches. Series: . Category: Toggle Switches",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "Accessories for Toggle Switches",
+      "series": "",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches"
+    }
+  },
+  {
+    "id": "part-carling-retail-toggle-switches",
+    "category": "Toggle Switches",
+    "document": "Part Number: Carling Retail Toggle Switches. Series: SPST. Category: Toggle Switches",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "Carling Retail Toggle Switches",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches"
+    }
+  },
+  {
+    "id": "part-e-toggle",
+    "category": "Toggle Switches",
+    "document": "Part Number: E Toggle. Series: SPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 15 mA. Max Current: Thru Hole. Contacts: 40000.0",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "E Toggle",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "15 mA",
+      "max_current": "Thru Hole",
+      "contacts": "40000.0"
+    }
+  },
+  {
+    "id": "part-et",
+    "category": "Toggle Switches",
+    "document": "Part Number: ET. Series: SPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Max Current: Thru Hole. Contacts: 60000.0",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "ET",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "max_current": "Thru Hole",
+      "contacts": "60000.0"
+    }
+  },
+  {
+    "id": "part-gt-toggle",
+    "category": "Toggle Switches",
+    "document": "Part Number: GT Toggle. Series: SPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 15 mA. Max Current: Thru Hole",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "GT Toggle",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "15 mA",
+      "max_current": "Thru Hole"
+    }
+  },
+  {
+    "id": "part-light-duty-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: Light Duty Series. Series: SPST. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "Light Duty Series",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-m-54111-marine-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: M 54111 Marine Series. Series: SPST. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "M 54111 Marine Series",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-military",
+    "category": "Toggle Switches",
+    "document": "Part Number: Military. Series: SPDT NO / NC. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 15 mA. Max Current: Thru Hole. Contacts: 20000.0. Mechanical Life Cycles: 10000.0",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "Military",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "15 mA",
+      "max_current": "Thru Hole",
+      "contacts": "20000.0",
+      "mechanical_life_cycles": "10000.0"
+    }
+  },
+  {
+    "id": "part-pt",
+    "category": "Toggle Switches",
+    "document": "Part Number: PT. Series: SPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 15 A. Max Current: Quick Connect",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "PT",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "15 A",
+      "max_current": "Quick Connect"
+    }
+  },
+  {
+    "id": "part-specialized-toggle-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: Specialized Toggle Series. Series: SPDT. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "Specialized Toggle Series",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-standard-heavy-duty-series",
+    "category": "Toggle Switches",
+    "document": "Part Number: Standard Heavy Duty Series. Series: SPST. Category: Toggle Switches. Max Current: Silver",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "Standard Heavy Duty Series",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-t-toggle",
+    "category": "Toggle Switches",
+    "document": "Part Number: T Toggle. Series: SPDT. Category: Toggle Switches. Circuitry: Maintain. Activation Type: On-None-On. Switch Function: 15 mA. Max Current: Thru Hole. Contacts: 60000.0",
+    "metadata": {
+      "category": "Toggle Switches",
+      "part_number": "T Toggle",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/toggle-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "switch_function": "15 mA",
+      "max_current": "Thru Hole",
+      "contacts": "60000.0"
+    }
+  },
+  {
+    "id": "part-ed-and-edm",
+    "category": "Tactile Switches",
+    "document": "Part Number: ED and EDM. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.05 mA. Max Current: Min 1.8 N / Nominal 2.4 N / Max 3 N. Operating Force: Min 0.15 mm / Nominal 0.3 mm / Max 0.45 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "ED and EDM",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.05 mA",
+      "max_current": "Min 1.8 N / Nominal 2.4 N / Max 3 N",
+      "operating_force": "Min 0.15 mm / Nominal 0.3 mm / Max 0.45 mm"
+    }
+  },
+  {
+    "id": "part-eits",
+    "category": "Tactile Switches",
+    "document": "Part Number: EITS. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.1 N / Nominal 1.6 N / Max 2.1 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "EITS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.1 N / Nominal 1.6 N / Max 2.1 N"
+    }
+  },
+  {
+    "id": "part-el2",
+    "category": "Tactile Switches",
+    "document": "Part Number: EL2. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.01 mA. Max Current: Min 1.4 N / Nominal 2 N / Max 2.6 N. Operating Force: Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "EL2",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.01 mA",
+      "max_current": "Min 1.4 N / Nominal 2 N / Max 2.6 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-its",
+    "category": "Tactile Switches",
+    "document": "Part Number: ITS. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.1 N / Nominal 1.6 N / Max 2.1 NMin 110 gf / Nominal 160 gf / Max 210 gf. Operating Force: Min 0.15 mm / Nominal 0.25 mm / Max 0.35 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "ITS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.1 N / Nominal 1.6 N / Max 2.1 NMin 110 gf / Nominal 160 gf / Max 210 gf",
+      "operating_force": "Min 0.15 mm / Nominal 0.25 mm / Max 0.35 mm"
+    }
+  },
+  {
+    "id": "part-k5at",
+    "category": "Tactile Switches",
+    "document": "Part Number: K5AT. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.1 mA. Min Current: 100 mA. Max Current: Min 3 N / Nominal 4 N / Max 5 N. Operating Force: Min 0.3 mm / Nominal 0.45 mm / Max 0.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "K5AT",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.1 mA",
+      "min_current": "100 mA",
+      "max_current": "Min 3 N / Nominal 4 N / Max 5 N",
+      "operating_force": "Min 0.3 mm / Nominal 0.45 mm / Max 0.6 mm"
+    }
+  },
+  {
+    "id": "part-k5v",
+    "category": "Tactile Switches",
+    "document": "Part Number: K5V. Series: SPDT NO / NC. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.1 mA. Min Current: 100 mA. Max Current: Min 3 N / Nominal 4 N / Max 5 N. Operating Force: Min 0.9 mm / Nominal 1.2 mm / Max 1.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "K5V",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.1 mA",
+      "min_current": "100 mA",
+      "max_current": "Min 3 N / Nominal 4 N / Max 5 N",
+      "operating_force": "Min 0.9 mm / Nominal 1.2 mm / Max 1.5 mm"
+    }
+  },
+  {
+    "id": "part-k8",
+    "category": "Tactile Switches",
+    "document": "Part Number: K8. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Min Current: 50 mA. Max Current: Min 3 N / Nominal 4 N / Max 5 N. Operating Force: Min 0.3 mm / Nominal 0.45 mm / Max 0.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "K8",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "min_current": "50 mA",
+      "max_current": "Min 3 N / Nominal 4 N / Max 5 N",
+      "operating_force": "Min 0.3 mm / Nominal 0.45 mm / Max 0.6 mm"
+    }
+  },
+  {
+    "id": "part-kmr2",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMR2. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 0.9 N / Nominal 1.2 N / Max 1.5 N. Operating Force: Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMR2",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 0.9 N / Nominal 1.2 N / Max 1.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm"
+    }
+  },
+  {
+    "id": "part-kmr4",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMR4. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.001 mA. Max Current: Min 0.9 N / Nominal 1.2 N / Max 1.5 N. Operating Force: Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMR4",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.001 mA",
+      "max_current": "Min 0.9 N / Nominal 1.2 N / Max 1.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm"
+    }
+  },
+  {
+    "id": "part-kmr6",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMR6. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 0.9 N / Nominal 1.2 N / Max 1.5 N. Operating Force: Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMR6",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 0.9 N / Nominal 1.2 N / Max 1.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm"
+    }
+  },
+  {
+    "id": "part-kmr7",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMR7. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.001 mA. Max Current: Min 0.9 N / Nominal 1.2 N / Max 1.5 N. Operating Force: Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMR7",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.001 mA",
+      "max_current": "Min 0.9 N / Nominal 1.2 N / Max 1.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm"
+    }
+  },
+  {
+    "id": "part-kmr8",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMR8. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 2.25 N / Nominal 3 N / Max 3.75 N. Operating Force: Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMR8",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 2.25 N / Nominal 3 N / Max 3.75 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm"
+    }
+  },
+  {
+    "id": "part-kms",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMS. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N. Operating Force: Min 0.1 mm / Nominal 0.25 mm / Max 0.4 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.25 mm / Max 0.4 mm"
+    }
+  },
+  {
+    "id": "part-kmt0",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMT0. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 0.75 N / Nominal 1 N / Max 1.25 N. Operating Force: Min 0.05 mm / Nominal 0.15 mm / Max 0.25 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMT0",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 0.75 N / Nominal 1 N / Max 1.25 N",
+      "operating_force": "Min 0.05 mm / Nominal 0.15 mm / Max 0.25 mm"
+    }
+  },
+  {
+    "id": "part-kmt2",
+    "category": "Tactile Switches",
+    "document": "Part Number: KMT2. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 0.75 N / Nominal 1 N / Max 1.25 N. Operating Force: Min 0.05 mm / Nominal 0.15 mm / Max 0.25 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KMT2",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 0.75 N / Nominal 1 N / Max 1.25 N",
+      "operating_force": "Min 0.05 mm / Nominal 0.15 mm / Max 0.25 mm"
+    }
+  },
+  {
+    "id": "part-ksa-and-ksl",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSA and KSL. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.4 N / Max 1.8 N. Operating Force: Min 0.3 mm / Nominal 0.5 mm / Max 0.7 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSA and KSL",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.4 N / Max 1.8 N",
+      "operating_force": "Min 0.3 mm / Nominal 0.5 mm / Max 0.7 mm"
+    }
+  },
+  {
+    "id": "part-ksa-and-ksl-mkii",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSA and KSL MKII. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.33 N / Max 1.65 N. Operating Force: Min 0.35 mm / Nominal 0.5 mm / Max 0.65 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSA and KSL MKII",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.33 N / Max 1.65 N",
+      "operating_force": "Min 0.35 mm / Nominal 0.5 mm / Max 0.65 mm"
+    }
+  },
+  {
+    "id": "part-ksc-of",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC OF. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.2 N / Nominal 1.65 N / Max 2.1 N. Operating Force: Min 0.25 mm / Nominal 0.5 mm / Max 0.75 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC OF",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.2 N / Nominal 1.65 N / Max 2.1 N",
+      "operating_force": "Min 0.25 mm / Nominal 0.5 mm / Max 0.75 mm"
+    }
+  },
+  {
+    "id": "part-ksc-pf",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC PF. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.35 N / Nominal 1.8 N / Max 2.25 N. Operating Force: Min 0.25 mm / Nominal 0.5 mm / Max 0.75 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC PF",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.35 N / Nominal 1.8 N / Max 2.25 N",
+      "operating_force": "Min 0.25 mm / Nominal 0.5 mm / Max 0.75 mm"
+    }
+  },
+  {
+    "id": "part-ksc-slt",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC SLT. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.7 N / Nominal 2.55 N / Max 3.4 N. Operating Force: Min 1.1 mm / Nominal 1.35 mm / Max 1.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC SLT",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.7 N / Nominal 2.55 N / Max 3.4 N",
+      "operating_force": "Min 1.1 mm / Nominal 1.35 mm / Max 1.6 mm"
+    }
+  },
+  {
+    "id": "part-ksc-v2",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC V2. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.6 N / Max 2.2 N. Operating Force: Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC V2",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.6 N / Max 2.2 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-ksc-xa",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC XA. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 2.5 N / Nominal 3.5 N / Max 4.5 N. Operating Force: Min 0.5 mm / Nominal 0.7 mm / Max 0.9 mm. Electrical Travel: Nominal 4.25 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC XA",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 2.5 N / Nominal 3.5 N / Max 4.5 N",
+      "operating_force": "Min 0.5 mm / Nominal 0.7 mm / Max 0.9 mm",
+      "electrical_travel": "Nominal 4.25 mm"
+    }
+  },
+  {
+    "id": "part-ksc1",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC1. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.2 N / Nominal 1.85 N / Max 2.5 N. Operating Force: Min 0.15 mm / Nominal 0.3 mm / Max 0.45 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC1",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.2 N / Nominal 1.85 N / Max 2.5 N",
+      "operating_force": "Min 0.15 mm / Nominal 0.3 mm / Max 0.45 mm"
+    }
+  },
+  {
+    "id": "part-ksc10",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC10. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 0.9 N / Nominal 1.45 N / Max 2 N. Operating Force: Min 0.2 mm / Nominal 0.45 mm / Max 0.7 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC10",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 0.9 N / Nominal 1.45 N / Max 2 N",
+      "operating_force": "Min 0.2 mm / Nominal 0.45 mm / Max 0.7 mm"
+    }
+  },
+  {
+    "id": "part-ksc11",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC11. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.2 N / Nominal 1.6 N / Max 2 N. Operating Force: Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC11",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.2 N / Nominal 1.6 N / Max 2 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.2 mm / Max 0.3 mm"
+    }
+  },
+  {
+    "id": "part-ksc2",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC2. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.6 N / Max 2.2 N. Operating Force: Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC2",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.6 N / Max 2.2 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-ksc2-dct",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC2 DCT. Series: SPDT NO / NC. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 3.5 N / Nominal 4.75 N / Max 6 N. Electrical Travel: Min 2.9 mm / Nominal 3.2 mm / Max 3.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC2 DCT",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 3.5 N / Nominal 4.75 N / Max 6 N",
+      "electrical_travel": "Min 2.9 mm / Nominal 3.2 mm / Max 3.5 mm"
+    }
+  },
+  {
+    "id": "part-ksc2-te",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC2 TE. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.6 N / Max 2.2 N. Operating Force: Nominal 0.25 mm. Electrical Travel: Min 3.05 mm / Nominal 3.25 mm / Max 3.45 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC2 TE",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.6 N / Max 2.2 N",
+      "operating_force": "Nominal 0.25 mm",
+      "electrical_travel": "Min 3.05 mm / Nominal 3.25 mm / Max 3.45 mm"
+    }
+  },
+  {
+    "id": "part-ksc3",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC3. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.6 N / Nominal 2 N / Max 2.4 N. Operating Force: Min 0.2 mm / Nominal 0.2 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC3",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.6 N / Nominal 2 N / Max 2.4 N",
+      "operating_force": "Min 0.2 mm / Nominal 0.2 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-ksc4",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC4. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 0.9 N / Nominal 1.45 N / Max 2 N. Operating Force: Min 0.25 mm / Nominal 0.5 mm / Max 0.75 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC4",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 0.9 N / Nominal 1.45 N / Max 2 N",
+      "operating_force": "Min 0.25 mm / Nominal 0.5 mm / Max 0.75 mm"
+    }
+  },
+  {
+    "id": "part-ksc4-dct",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC4 DCT. Series: SPDT NO / NC. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 3.5 N / Nominal 4.75 N / Max 6 N. Operating Force: Min 0.6 mm / Nominal 0.85 mm / Max 1.2 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC4 DCT",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 3.5 N / Nominal 4.75 N / Max 6 N",
+      "operating_force": "Min 0.6 mm / Nominal 0.85 mm / Max 1.2 mm"
+    }
+  },
+  {
+    "id": "part-ksc4-te",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC4 TE. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.6 N / Max 2.2 N. Electrical Travel: Min 4.7 mm / Nominal 4.9 mm / Max 5.1 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC4 TE",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.6 N / Max 2.2 N",
+      "electrical_travel": "Min 4.7 mm / Nominal 4.9 mm / Max 5.1 mm"
+    }
+  },
+  {
+    "id": "part-ksc5",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC5. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N. Operating Force: Min 0.1 mm / Nominal 0.25 mm / Max 0.4 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC5",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.25 mm / Max 0.4 mm"
+    }
+  },
+  {
+    "id": "part-ksc6",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC6. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.2 N / Nominal 1.7 N / Max 2.2 N. Operating Force: Min 0.2 mm / Nominal 0.4 mm / Max 0.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC6",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.2 N / Nominal 1.7 N / Max 2.2 N",
+      "operating_force": "Min 0.2 mm / Nominal 0.4 mm / Max 0.6 mm"
+    }
+  },
+  {
+    "id": "part-ksc7",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC7. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.6 N / Max 2.2 N. Operating Force: Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC7",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.6 N / Max 2.2 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-ksc8",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC8. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.2 N / Nominal 1.7 N / Max 2.2 N. Operating Force: Min 0.2 mm / Nominal 0.4 mm / Max 0.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC8",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.2 N / Nominal 1.7 N / Max 2.2 N",
+      "operating_force": "Min 0.2 mm / Nominal 0.4 mm / Max 0.6 mm"
+    }
+  },
+  {
+    "id": "part-ksc9",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSC9. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.2 N / Nominal 1.7 N / Max 2.2 N. Operating Force: Min 0.2 mm / Nominal 0.4 mm / Max 0.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSC9",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.2 N / Nominal 1.7 N / Max 2.2 N",
+      "operating_force": "Min 0.2 mm / Nominal 0.4 mm / Max 0.6 mm"
+    }
+  },
+  {
+    "id": "part-kse",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSE. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.5 N / Nominal 2.25 N / Max 3 N. Operating Force: Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSE",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.5 N / Nominal 2.25 N / Max 3 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-ksf-and-ksfi",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSF and KSFI. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1 N / Nominal 1.5 N / Max 2 N. Operating Force: Min 0.15 mm / Nominal 0.25 mm / Max 0.35 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSF and KSFI",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1 N / Nominal 1.5 N / Max 2 N",
+      "operating_force": "Min 0.15 mm / Nominal 0.25 mm / Max 0.35 mm"
+    }
+  },
+  {
+    "id": "part-ksj",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSJ. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N. Operating Force: Min 0.15 mm / Nominal 0.35 mm / Max 0.55 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSJ",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N",
+      "operating_force": "Min 0.15 mm / Nominal 0.35 mm / Max 0.55 mm"
+    }
+  },
+  {
+    "id": "part-ksr",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSR. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.5 N / Nominal 1.85 N / Max 2.2 N. Operating Force: Min 0.1 mm / Nominal 0.25 mm / Max 0.4 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSR",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.5 N / Nominal 1.85 N / Max 2.2 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.25 mm / Max 0.4 mm"
+    }
+  },
+  {
+    "id": "part-kss",
+    "category": "Tactile Switches",
+    "document": "Part Number: KSS. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N. Operating Force: Min 0.15 mm / Nominal 0.3 mm / Max 0.45 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KSS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N",
+      "operating_force": "Min 0.15 mm / Nominal 0.3 mm / Max 0.45 mm"
+    }
+  },
+  {
+    "id": "part-kst",
+    "category": "Tactile Switches",
+    "document": "Part Number: KST. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.6 N / Nominal 2.4 N / Max 3.2 N. Operating Force: Min 1.1 mm / Nominal 1.35 mm / Max 1.6 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KST",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.6 N / Nominal 2.4 N / Max 3.2 N",
+      "operating_force": "Min 1.1 mm / Nominal 1.35 mm / Max 1.6 mm"
+    }
+  },
+  {
+    "id": "part-kt",
+    "category": "Tactile Switches",
+    "document": "Part Number: KT. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 1 mA. Max Current: Min 1.92 N / Nominal 2.4 N / Max 2.88 N. Operating Force: Min 0.2 mm / Nominal 0.3 mm / Max 0.4 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KT",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "1 mA",
+      "max_current": "Min 1.92 N / Nominal 2.4 N / Max 2.88 N",
+      "operating_force": "Min 0.2 mm / Nominal 0.3 mm / Max 0.4 mm"
+    }
+  },
+  {
+    "id": "part-kxt3",
+    "category": "Tactile Switches",
+    "document": "Part Number: KXT3. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 5 mA. Min Current: 50 mA. Max Current: Min 0.5 N / Nominal 1 N / Max 1.5 N. Operating Force: Min 0.08 mm / Nominal 0.13 mm / Max 0.18 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "KXT3",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "5 mA",
+      "min_current": "50 mA",
+      "max_current": "Min 0.5 N / Nominal 1 N / Max 1.5 N",
+      "operating_force": "Min 0.08 mm / Nominal 0.13 mm / Max 0.18 mm"
+    }
+  },
+  {
+    "id": "part-md-and-mdp",
+    "category": "Tactile Switches",
+    "document": "Part Number: MD and MDP. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.05 mA. Max Current: Min 1.8 N / Nominal 2.4 N / Max 3 N. Operating Force: Min 0.6 mm / Nominal 0.95 mm / Max 1.3 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "MD and MDP",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.05 mA",
+      "max_current": "Min 1.8 N / Nominal 2.4 N / Max 3 N",
+      "operating_force": "Min 0.6 mm / Nominal 0.95 mm / Max 1.3 mm"
+    }
+  },
+  {
+    "id": "part-nanot",
+    "category": "Tactile Switches",
+    "document": "Part Number: NanoT. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 20 mA. Max Current: Min 0.69 N / Nominal 0.98 N / Max 1.37 NMin 70 gf / Nominal 100 gf / Max 140 gf. Operating Force: Min 0.05 mm / Nominal 0.1 mm / Max 0.15 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "NanoT",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "20 mA",
+      "max_current": "Min 0.69 N / Nominal 0.98 N / Max 1.37 NMin 70 gf / Nominal 100 gf / Max 140 gf",
+      "operating_force": "Min 0.05 mm / Nominal 0.1 mm / Max 0.15 mm"
+    }
+  },
+  {
+    "id": "part-pts125",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS125. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 3 NMin 200 gf / Nominal 250 gf / Max 300 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS125",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 3 NMin 200 gf / Nominal 250 gf / Max 300 gf"
+    }
+  },
+  {
+    "id": "part-pts525",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS525. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 20 mA. Max Current: Min 2.1 N / Nominal 2.6 N / Max 3.1 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS525",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "20 mA",
+      "max_current": "Min 2.1 N / Nominal 2.6 N / Max 3.1 N"
+    }
+  },
+  {
+    "id": "part-pts526",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS526. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 3 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS526",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 3 N"
+    }
+  },
+  {
+    "id": "part-pts530",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS530. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 3.3 N / Nominal 4 N / Max 4.7 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS530",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 3.3 N / Nominal 4 N / Max 4.7 N"
+    }
+  },
+  {
+    "id": "part-pts540",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS540. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.8 N / Nominal 2.3 N / Max 2.8 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS540",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.8 N / Nominal 2.3 N / Max 2.8 N"
+    }
+  },
+  {
+    "id": "part-pts636",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS636. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 3 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS636",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 3 N"
+    }
+  },
+  {
+    "id": "part-pts641",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS641. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 2.1 NMin 200 gf / Nominal 250 gf / Max 210 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS641",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 2.1 NMin 200 gf / Nominal 250 gf / Max 210 gf"
+    }
+  },
+  {
+    "id": "part-pts645",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS645. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS645",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N"
+    }
+  },
+  {
+    "id": "part-pts645v",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS645V. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS645V",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N"
+    }
+  },
+  {
+    "id": "part-pts647",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS647. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 3 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS647",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 3 N"
+    }
+  },
+  {
+    "id": "part-pts810",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS810. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 3 N / Nominal 4 N / Max 5 NMin 300 gf / Nominal 400 gf / Max 500 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS810",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 3 N / Nominal 4 N / Max 5 NMin 300 gf / Nominal 400 gf / Max 500 gf"
+    }
+  },
+  {
+    "id": "part-pts815",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS815. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 10 mA. Min Current: 50 mA. Max Current: Min 3 N / Nominal 4 N / Max 5 NMin 300 gf / Nominal 400 gf / Max 500 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS815",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "10 mA",
+      "min_current": "50 mA",
+      "max_current": "Min 3 N / Nominal 4 N / Max 5 NMin 300 gf / Nominal 400 gf / Max 500 gf"
+    }
+  },
+  {
+    "id": "part-pts820",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS820. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 3 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS820",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 3 N"
+    }
+  },
+  {
+    "id": "part-pts830",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS830. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 3.7 N / Nominal 4.5 N / Max 5.3 NMin 370 gf / Nominal 450 gf / Max 530 gf. Operating Force: Min 0.05 mm / Nominal 0.15 mm / Max 0.25 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS830",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 3.7 N / Nominal 4.5 N / Max 5.3 NMin 370 gf / Nominal 450 gf / Max 530 gf",
+      "operating_force": "Min 0.05 mm / Nominal 0.15 mm / Max 0.25 mm"
+    }
+  },
+  {
+    "id": "part-pts840",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS840. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.5 N / Nominal 2.2 N / Max 3 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS840",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.5 N / Nominal 2.2 N / Max 3 N"
+    }
+  },
+  {
+    "id": "part-pts841",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS841. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 10 mA. Min Current: 50 mA. Max Current: Min 2 N / Nominal 2.5 N / Max 3 NMin 200 gf / Nominal 250 gf / Max 300 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS841",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "10 mA",
+      "min_current": "50 mA",
+      "max_current": "Min 2 N / Nominal 2.5 N / Max 3 NMin 200 gf / Nominal 250 gf / Max 300 gf"
+    }
+  },
+  {
+    "id": "part-pts845",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS845. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 2.1 N / Nominal 2.6 N / Max 3.1 NMin 210 gf / Nominal 260 gf / Max 310 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS845",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 2.1 N / Nominal 2.6 N / Max 3.1 NMin 210 gf / Nominal 260 gf / Max 310 gf"
+    }
+  },
+  {
+    "id": "part-pts847",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS847. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 20 mA. Max Current: Min 1.1 N / Nominal 1.6 N / Max 2.1 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS847",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "20 mA",
+      "max_current": "Min 1.1 N / Nominal 1.6 N / Max 2.1 N"
+    }
+  },
+  {
+    "id": "part-pts850",
+    "category": "Tactile Switches",
+    "document": "Part Number: PTS850. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 1.4 N / Nominal 1.8 N / Max 2.6 N",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "PTS850",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 1.4 N / Nominal 1.8 N / Max 2.6 N"
+    }
+  },
+  {
+    "id": "part-rk",
+    "category": "Tactile Switches",
+    "document": "Part Number: RK. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 20 mA. Max Current: Min 3.3 N / Nominal 4 N / Max 4.7 NMin 330 gf / Nominal 400 gf / Max 470 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "RK",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "20 mA",
+      "max_current": "Min 3.3 N / Nominal 4 N / Max 4.7 NMin 330 gf / Nominal 400 gf / Max 470 gf"
+    }
+  },
+  {
+    "id": "part-rkc2",
+    "category": "Tactile Switches",
+    "document": "Part Number: RKC2. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Min 3.92 N / Nominal 4.9 N / Max 5.88 NMin 400 gf / Nominal 500 gf / Max 600 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "RKC2",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Min 3.92 N / Nominal 4.9 N / Max 5.88 NMin 400 gf / Nominal 500 gf / Max 600 gf"
+    }
+  },
+  {
+    "id": "part-sfs",
+    "category": "Tactile Switches",
+    "document": "Part Number: SFS. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Min Current: 100 mA. Max Current: Min 5.1 N / Nominal 6.67 N / Max 8.24 NMin 520 gf / Nominal 680 gf / Max 840 gf",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "SFS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "min_current": "100 mA",
+      "max_current": "Min 5.1 N / Nominal 6.67 N / Max 8.24 NMin 520 gf / Nominal 680 gf / Max 840 gf"
+    }
+  },
+  {
+    "id": "part-tls",
+    "category": "Tactile Switches",
+    "document": "Part Number: TLS. Series: SPST NO. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 0.1 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N. Operating Force: Min 0.6 mm / Nominal 0.9 mm / Max 1.2 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "TLS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "0.1 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N",
+      "operating_force": "Min 0.6 mm / Nominal 0.9 mm / Max 1.2 mm"
+    }
+  },
+  {
+    "id": "part-tlsm",
+    "category": "Tactile Switches",
+    "document": "Part Number: TLSM. Series: SPDT. Category: Tactile Switches. Circuitry: Momentary action. Activation Type: 10 uA. Min Current: 50 mA. Max Current: Min 1.5 N / Nominal 2 N / Max 2.5 N. Operating Force: Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm",
+    "metadata": {
+      "category": "Tactile Switches",
+      "part_number": "TLSM",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/tactile-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "10 uA",
+      "min_current": "50 mA",
+      "max_current": "Min 1.5 N / Nominal 2 N / Max 2.5 N",
+      "operating_force": "Min 0.1 mm / Nominal 0.3 mm / Max 0.5 mm"
+    }
+  },
+  {
+    "id": "part-ats",
+    "category": "Detect Switches",
+    "document": "Part Number: ATS. Series: SPST NC. Category: Detect Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "ATS",
+      "series": "SPST NC",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-dds",
+    "category": "Detect Switches",
+    "document": "Part Number: DDS. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Min Current: 100 mA. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "DDS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "100 mA",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-ds",
+    "category": "Detect Switches",
+    "document": "Part Number: DS. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Activation Type: On-Off-On. Min Current: 100 mA. Max Current: Silver. IP Rating: Post. Mounting: Solder Lugs",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "DS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "On-Off-On",
+      "min_current": "100 mA",
+      "max_current": "Silver",
+      "ip_rating": "Post",
+      "mounting": "Solder Lugs"
+    }
+  },
+  {
+    "id": "part-fdsd",
+    "category": "Detect Switches",
+    "document": "Part Number: FDSD. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Min Current: 10 mA. Max Current: Silver",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "FDSD",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "10 mA",
+      "max_current": "Silver"
+    }
+  },
+  {
+    "id": "part-fdse",
+    "category": "Detect Switches",
+    "document": "Part Number: FDSE. Series: SPST NC. Category: Detect Switches. Circuitry: Momentary action. Min Current: 1 mA. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "FDSE",
+      "series": "SPST NC",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "1 mA",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-hdp",
+    "category": "Detect Switches",
+    "document": "Part Number: HDP. Series: DPST NO. Category: Detect Switches. Circuitry: Momentary action. Min Current: 1 mA. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "HDP",
+      "series": "DPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "1 mA",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-hds",
+    "category": "Detect Switches",
+    "document": "Part Number: HDS. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Min Current: 1 mA. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "HDS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "1 mA",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-hdt",
+    "category": "Detect Switches",
+    "document": "Part Number: HDT. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "HDT",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-hs",
+    "category": "Detect Switches",
+    "document": "Part Number: HS. Series: DPDT NO / NC. Category: Detect Switches. Circuitry: Momentary action. Max Current: Silver. IP Rating: Snap In. Mounting: Thru Hole",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "HS",
+      "series": "DPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Silver",
+      "ip_rating": "Snap In",
+      "mounting": "Thru Hole"
+    }
+  },
+  {
+    "id": "part-k12-d",
+    "category": "Detect Switches",
+    "document": "Part Number: K12 D. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Max Current: Gold. Mounting: Thru Hole",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "K12 D",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Gold",
+      "mounting": "Thru Hole"
+    }
+  },
+  {
+    "id": "part-k12s-d",
+    "category": "Detect Switches",
+    "document": "Part Number: K12S D. Series: DPST NO. Category: Detect Switches. Circuitry: Momentary action. Max Current: Gold. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "K12S D",
+      "series": "DPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Gold",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-kds",
+    "category": "Detect Switches",
+    "document": "Part Number: KDS. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Min Current: 50 mA. Max Current: Gold. Mounting: Wires. Voltage DC: Max 20 Volt",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "KDS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "50 mA",
+      "max_current": "Gold",
+      "mounting": "Wires",
+      "voltage_dc": "Max 20 Volt"
+    }
+  },
+  {
+    "id": "part-ksc-d",
+    "category": "Detect Switches",
+    "document": "Part Number: KSC D. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "KSC D",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-ksr-d",
+    "category": "Detect Switches",
+    "document": "Part Number: KSR D. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Max Current: Gold. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "KSR D",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Gold",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-ksu",
+    "category": "Detect Switches",
+    "document": "Part Number: KSU. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Max Current: Silver. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "KSU",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Silver",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-mps",
+    "category": "Detect Switches",
+    "document": "Part Number: MPS. Series: SPST NO. Category: Detect Switches. Circuitry: Permanent. Min Current: 250 mA. Mounting: Wires. Voltage DC: Max 30 Volt",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "MPS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Permanent",
+      "min_current": "250 mA",
+      "mounting": "Wires",
+      "voltage_dc": "Max 30 Volt"
+    }
+  },
+  {
+    "id": "part-mpsr",
+    "category": "Detect Switches",
+    "document": "Part Number: MPSR. Series: SPDT NO. Category: Detect Switches. Min Current: 200 mA. Mounting: Wires",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "MPSR",
+      "series": "SPDT NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "min_current": "200 mA",
+      "mounting": "Wires"
+    }
+  },
+  {
+    "id": "part-rb",
+    "category": "Detect Switches",
+    "document": "Part Number: RB. Series: SPDT. Category: Detect Switches. Circuitry: Momentary action. Max Current: Gold. Mounting: Thru Hole",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "RB",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "max_current": "Gold",
+      "mounting": "Thru Hole"
+    }
+  },
+  {
+    "id": "part-sds",
+    "category": "Detect Switches",
+    "document": "Part Number: SDS. Series: SPST NO. Category: Detect Switches. Circuitry: Momentary action. Min Current: 100 mA. Max Current: Silver. IP Rating: Post. Mounting: Surface mount",
+    "metadata": {
+      "category": "Detect Switches",
+      "part_number": "SDS",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/detect-switches",
+      "circuitry": "Momentary action",
+      "min_current": "100 mA",
+      "max_current": "Silver",
+      "ip_rating": "Post",
+      "mounting": "Surface mount"
+    }
+  },
+  {
+    "id": "part-1000",
+    "category": "Slide Switches",
+    "document": "Part Number: 1000. Series: SPDT. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-None-On. Min Current: 20 mA. Max Current: 0.140 inch high Nylon Black. Actuator: Top actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "1000",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "min_current": "20 mA",
+      "max_current": "0.140 inch high Nylon Black",
+      "actuator": "Top actuated"
+    }
+  },
+  {
+    "id": "part-ayz",
+    "category": "Slide Switches",
+    "document": "Part Number: AYZ. Series: SPDT. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-None-On. Min Current: 100 mA. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "AYZ",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "min_current": "100 mA",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-es",
+    "category": "Slide Switches",
+    "document": "Part Number: ES. Series: SPDT NO / NC. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-Off-On. Min Current: 20 mA. Max Current: Standard 3.07 mm Length. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "ES",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-Off-On",
+      "min_current": "20 mA",
+      "max_current": "Standard 3.07 mm Length",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-gs",
+    "category": "Slide Switches",
+    "document": "Part Number: GS. Series: SPDT. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-Off-On. Min Current: 20 mA. Max Current: Standard. 1.27mm",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "GS",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-Off-On",
+      "min_current": "20 mA",
+      "max_current": "Standard. 1.27mm"
+    }
+  },
+  {
+    "id": "part-js",
+    "category": "Slide Switches",
+    "document": "Part Number: JS. Series: SPDT. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-None-On. Min Current: 0.3 A. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "JS",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "min_current": "0.3 A",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-jsx",
+    "category": "Slide Switches",
+    "document": "Part Number: JSX. Series: SPDT NO / NC. Category: Slide Switches. Circuitry: Momentary action. Min Current: 10 mA. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "JSX",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Momentary action",
+      "min_current": "10 mA",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-l-slide",
+    "category": "Slide Switches",
+    "document": "Part Number: L Slide. Series: SPST NO. Category: Slide Switches. Circuitry: Maintain. Max Current: Standard 5.08mm. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "L Slide",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "max_current": "Standard 5.08mm",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-os",
+    "category": "Slide Switches",
+    "document": "Part Number: OS. Series: SPDT NO / NC. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-None-On. Min Current: 0.2 A. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "OS",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "min_current": "0.2 A",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-pcm",
+    "category": "Slide Switches",
+    "document": "Part Number: PCM. Series: SPDT. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-None-On. Min Current: 0.3 A. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "PCM",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-None-On",
+      "min_current": "0.3 A",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-s-slide",
+    "category": "Slide Switches",
+    "document": "Part Number: S Slide. Series: SPST NO. Category: Slide Switches. Circuitry: Maintain. Activation Type: On-Off-On. Min Current: 15 A. Max Current: Standard 8.51 mm. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "S Slide",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Maintain",
+      "activation_type": "On-Off-On",
+      "min_current": "15 A",
+      "max_current": "Standard 8.51 mm",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-sk",
+    "category": "Slide Switches",
+    "document": "Part Number: SK. Series: SPDT NO / NC. Category: Slide Switches. Circuitry: Momentary action. Activation Type: On-Off-On. Min Current: 0.3 A. Actuator: Side actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "SK",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "On-Off-On",
+      "min_current": "0.3 A",
+      "actuator": "Side actuated"
+    }
+  },
+  {
+    "id": "part-ss",
+    "category": "Slide Switches",
+    "document": "Part Number: SS. Series: SPDT NO / NC. Category: Slide Switches. Circuitry: Momentary action. Activation Type: On-Off-On. Min Current: 0.3 A. Actuator: Top actuated",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "SS",
+      "series": "SPDT NO / NC",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "On-Off-On",
+      "min_current": "0.3 A",
+      "actuator": "Top actuated"
+    }
+  },
+  {
+    "id": "part-ts",
+    "category": "Slide Switches",
+    "document": "Part Number: TS. Series: SPDT. Category: Slide Switches. Circuitry: Momentary action. Activation Type: On-None-On. Min Current: 3 A. Max Current: STANDARD 3.10 mm Length",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "TS",
+      "series": "SPDT",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "On-None-On",
+      "min_current": "3 A",
+      "max_current": "STANDARD 3.10 mm Length"
+    }
+  },
+  {
+    "id": "part-v-slide",
+    "category": "Slide Switches",
+    "document": "Part Number: V Slide. Series: SPST NO. Category: Slide Switches. Circuitry: Momentary action. Activation Type: On-Off-On. Min Current: 10 A. Max Current: 0.290 inch (7.36mm)",
+    "metadata": {
+      "category": "Slide Switches",
+      "part_number": "V Slide",
+      "series": "SPST NO",
+      "url": "https://www.littelfuse.com/products/switches/slide-switches",
+      "circuitry": "Momentary action",
+      "activation_type": "On-Off-On",
+      "min_current": "10 A",
+      "max_current": "0.290 inch (7.36mm)"
+    }
+  },
+  {
+    "id": "part-headlamp-push-pull-switches",
+    "category": "Push-Pull Switches",
+    "document": "Part Number: Headlamp Push Pull Switches. Series: . Category: Push-Pull Switches. Normal Position: 15.0. Current Rating: 12.0. Max DC Voltage: 8 Blade",
+    "metadata": {
+      "category": "Push-Pull Switches",
+      "part_number": "Headlamp Push Pull Switches",
+      "series": "",
+      "url": "https://www.littelfuse.com/products/switches/push-pull-switches",
+      "normal_position": "15.0",
+      "current_rating": "12.0",
+      "max_dc_voltage": "8 Blade"
+    }
+  },
+  {
+    "id": "part-marine-push-pull-switches",
+    "category": "Push-Pull Switches",
+    "document": "Part Number: Marine Push Pull Switches. Series: SPST. Category: Push-Pull Switches. Circuitry: Normally Open. Normal Position: 10.0. Current Rating: 12.0. Max DC Voltage: 2 Brass Screw",
+    "metadata": {
+      "category": "Push-Pull Switches",
+      "part_number": "Marine Push Pull Switches",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/push-pull-switches",
+      "circuitry": "Normally Open",
+      "normal_position": "10.0",
+      "current_rating": "12.0",
+      "max_dc_voltage": "2 Brass Screw"
+    }
+  },
+  {
+    "id": "part-one-circuit-push-pull-switches",
+    "category": "Push-Pull Switches",
+    "document": "Part Number: One Circuit Push Pull Switches. Series: SPST. Category: Push-Pull Switches. Circuitry: Normally Open. Normal Position: 20.0. Current Rating: 12.0. Max DC Voltage: 2 Screw",
+    "metadata": {
+      "category": "Push-Pull Switches",
+      "part_number": "One Circuit Push Pull Switches",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/push-pull-switches",
+      "circuitry": "Normally Open",
+      "normal_position": "20.0",
+      "current_rating": "12.0",
+      "max_dc_voltage": "2 Screw"
+    }
+  },
+  {
+    "id": "part-special-purpose-push-pull-switches",
+    "category": "Push-Pull Switches",
+    "document": "Part Number: Special Purpose Push Pull Switches. Series: SPST. Category: Push-Pull Switches. Current Rating: 12.0. Max DC Voltage: 3 Screw",
+    "metadata": {
+      "category": "Push-Pull Switches",
+      "part_number": "Special Purpose Push Pull Switches",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/push-pull-switches",
+      "current_rating": "12.0",
+      "max_dc_voltage": "3 Screw"
+    }
+  },
+  {
+    "id": "part-two-circuit-push-pull-switches",
+    "category": "Push-Pull Switches",
+    "document": "Part Number: Two Circuit Push Pull Switches. Series: SPST. Category: Push-Pull Switches. Circuitry: Normally Closed. Max DC Voltage: 2 Screw",
+    "metadata": {
+      "category": "Push-Pull Switches",
+      "part_number": "Two Circuit Push Pull Switches",
+      "series": "SPST",
+      "url": "https://www.littelfuse.com/products/switches/push-pull-switches",
+      "circuitry": "Normally Closed",
+      "max_dc_voltage": "2 Screw"
+    }
+  },
+  {
+    "id": "part-carling-retail-chargers",
+    "category": "Special Purpose Switches",
+    "document": "Part Number: Carling Retail Chargers. Series: . Category: Special Purpose Switches",
+    "metadata": {
+      "category": "Special Purpose Switches",
+      "part_number": "Carling Retail Chargers",
+      "series": "",
+      "url": "https://www.littelfuse.com/products/switches/special-purpose-switches"
+    }
+  },
+  {
+    "id": "part-neutral-safety-and-backup-switches",
+    "category": "Special Purpose Switches",
+    "document": "Part Number: Neutral Safety and Backup Switches. Series: . Category: Special Purpose Switches",
+    "metadata": {
+      "category": "Special Purpose Switches",
+      "part_number": "Neutral Safety and Backup Switches",
+      "series": "",
+      "url": "https://www.littelfuse.com/products/switches/special-purpose-switches"
+    }
+  },
+  {
+    "id": "part-stoplamp-switches",
+    "category": "Special Purpose Switches",
+    "document": "Part Number: Stoplamp Switches. Series: 4.6. Category: Special Purpose Switches. Circuitry: 2.0. Current Rating: SPST",
+    "metadata": {
+      "category": "Special Purpose Switches",
+      "part_number": "Stoplamp Switches",
+      "series": "4.6",
+      "url": "https://www.littelfuse.com/products/switches/special-purpose-switches",
+      "circuitry": "2.0",
+      "current_rating": "SPST"
+    }
+  },
+  {
+    "id": "part-temperature-switches",
+    "category": "Special Purpose Switches",
+    "document": "Part Number: Temperature Switches. Series: . Category: Special Purpose Switches",
+    "metadata": {
+      "category": "Special Purpose Switches",
+      "part_number": "Temperature Switches",
+      "series": "",
+      "url": "https://www.littelfuse.com/products/switches/special-purpose-switches"
+    }
+  }
+]

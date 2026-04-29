@@ -1,0 +1,4 @@
+flask
+chromadb
+anthropic
+python-dotenv
