@@ -14,33 +14,6 @@ It handles more than just product selection — ask it technical questions, requ
 
 ---
 
-## Demo
-
-```
-Query:    "I need a switch to safely disconnect a 1500V solar array"
-
-Response: 1. RECOMMENDED PRODUCT
-          1500 VDC Disconnect Switches — LS7R Series
-          https://www.littelfuse.com/products/switches/dc-disconnect-switches/1500-vdc-disconnect-switches
-
-          2. WHY IT FITS
-          Purpose-built for solar PV disconnect at 1500 VDC. Patented
-          arc-minimizing operation critical at this voltage level...
-
-          3. KEY SPECS
-          Voltage: 1500 VDC
-          Current: 250A, 320A, 400A, 500A depending on model
-          Arc management: Patented disconnect mechanism
-          ...
-
-          4. INTEGRATION TIPS
-          1. Size to 125% of max string current per NEC 690...
-          2. Install between PV array and inverter for code compliance...
-          3. Coordinate with upstream overcurrent protection...
-```
-
----
-
 ## How it works
 
 ```
@@ -56,7 +29,7 @@ User query (natural language)
    Top 3 matches returned with metadata
         │
         ▼
-   Claude API ── generates structured recommendation
+   LLM ── generates structured recommendation
         │
         ▼
    Response with product name, specs, tips, and clickable link
